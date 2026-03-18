@@ -1,6 +1,6 @@
 #  FutureWealth Tracker
 
-**FutureWealth Tracker** is an interactive financial forecasting tool. Instead of looking at a static spreadsheet, I built this to turn abstract savings goals into a visual reality, showing exactly how wealth can grow over a 30-year horizon.
+**FutureWealth Tracker** is an interactive financial forecasting tool. Instead of looking at a static spreadsheet, I built this to turn abstract savings goals into a visual reality, showing exactly how wealth can grow over a period of time.
 
 ---
 
