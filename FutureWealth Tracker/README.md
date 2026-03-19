@@ -28,4 +28,4 @@ I built this tool to solve three specific problems:
 * **Dynamic Graphing:** The plot updates instantly as you adjust your inputs.
 * **Modern UI:** Built with **CustomTkinter** to ensure a high-contrast, professional interface that avoids the "boring" look of traditional banking apps.
 ---
-![Project Demo](FutureWealth%20Tracker.gif)
+![Project Demo](FutureWealth%20Tracker.png)
